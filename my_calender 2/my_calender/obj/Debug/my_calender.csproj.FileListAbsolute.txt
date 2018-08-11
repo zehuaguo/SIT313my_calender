@@ -1,0 +1,72 @@
+/Users/zehuaguo/Desktop/my_calender/my_calender/bin/Debug/my_calender.dll
+/Users/zehuaguo/Desktop/my_calender/my_calender/bin/Debug/my_calender.pdb
+/Users/zehuaguo/Desktop/my_calender/my_calender/bin/Debug/com.companyname.my_calender.apk
+/Users/zehuaguo/Desktop/my_calender/my_calender/bin/Debug/com.companyname.my_calender-Signed.apk
+/Users/zehuaguo/Desktop/my_calender/my_calender/bin/Debug/Xamarin.Android.Arch.Core.Common.dll
+/Users/zehuaguo/Desktop/my_calender/my_calender/bin/Debug/Xamarin.Android.Arch.Lifecycle.Common.dll
+/Users/zehuaguo/Desktop/my_calender/my_calender/bin/Debug/Xamarin.Android.Arch.Lifecycle.Runtime.dll
+/Users/zehuaguo/Desktop/my_calender/my_calender/bin/Debug/Xamarin.Android.Support.Animated.Vector.Drawable.dll
+/Users/zehuaguo/Desktop/my_calender/my_calender/bin/Debug/Xamarin.Android.Support.Annotations.dll
+/Users/zehuaguo/Desktop/my_calender/my_calender/bin/Debug/Xamarin.Android.Support.Compat.dll
+/Users/zehuaguo/Desktop/my_calender/my_calender/bin/Debug/Xamarin.Android.Support.Core.UI.dll
+/Users/zehuaguo/Desktop/my_calender/my_calender/bin/Debug/Xamarin.Android.Support.Core.Utils.dll
+/Users/zehuaguo/Desktop/my_calender/my_calender/bin/Debug/Xamarin.Android.Support.Fragment.dll
+/Users/zehuaguo/Desktop/my_calender/my_calender/bin/Debug/Xamarin.Android.Support.Media.Compat.dll
+/Users/zehuaguo/Desktop/my_calender/my_calender/bin/Debug/Xamarin.Android.Support.v7.AppCompat.dll
+/Users/zehuaguo/Desktop/my_calender/my_calender/bin/Debug/Xamarin.Android.Support.Vector.Drawable.dll
+/Users/zehuaguo/Desktop/my_calender/my_calender/obj/Debug/my_calender.csprojResolveAssemblyReference.cache
+/Users/zehuaguo/Desktop/my_calender/my_calender/obj/Debug/my_calender.csproj.CoreCompileInputs.cache
+/Users/zehuaguo/Desktop/my_calender/my_calender/obj/Debug/my_calender.dll
+/Users/zehuaguo/Desktop/my_calender/my_calender/obj/Debug/my_calender.pdb
+/Users/zehuaguo/Desktop/my_calender/my_calender/obj/Debug/android/bin/com.companyname.my_calender.apk
+/Users/zehuaguo/Desktop/my_calender/my_calender/obj/Debug/res/layout/main.xml
+/Users/zehuaguo/Desktop/my_calender/my_calender/obj/Debug/res/values/strings.xml
+/Users/zehuaguo/Desktop/my_calender/my_calender/obj/Debug/res/mipmap-hdpi/icon.png
+/Users/zehuaguo/Desktop/my_calender/my_calender/obj/Debug/res/mipmap-mdpi/icon.png
+/Users/zehuaguo/Desktop/my_calender/my_calender/obj/Debug/res/mipmap-xhdpi/icon.png
+/Users/zehuaguo/Desktop/my_calender/my_calender/obj/Debug/res/mipmap-xxhdpi/icon.png
+/Users/zehuaguo/Desktop/my_calender/my_calender/obj/Debug/res/mipmap-xxxhdpi/icon.png
+/Users/zehuaguo/Desktop/my_calender/my_calender/obj/Debug/R.cs.flag
+/Users/zehuaguo/Desktop/my_calender/my_calender/obj/Debug/R.txt
+/Users/zehuaguo/Desktop/my_calender/my_calender/obj/Debug/uploadflags.txt
+/Users/zehuaguo/Desktop/my_calender/my_calender/obj/Debug/res/layout/secondlayout.xml
+/Users/zehuaguo/Desktop/my_calender/my_calender/obj/Debug/res/drawable/icon.png
+/Users/zehuaguo/Desktop/my_calender/my_calender/bin/Debug/Mono.Android.pdb
+/Users/zehuaguo/Desktop/my_calender/my_calender/obj/Debug/linksrc/my_calender.pdb
+/Users/zehuaguo/Desktop/my_calender/my_calender/obj/Debug/linksrc/Mono.Android.pdb
+/Users/zehuaguo/Desktop/my_calender 2/my_calender/obj/Debug/my_calender.csprojResolveAssemblyReference.cache
+/Users/zehuaguo/Desktop/my_calender 2/my_calender/obj/Debug/my_calender.csproj.CoreCompileInputs.cache
+/Users/zehuaguo/Desktop/my_calender 2/my_calender/bin/Debug/my_calender.dll
+/Users/zehuaguo/Desktop/my_calender 2/my_calender/bin/Debug/my_calender.pdb
+/Users/zehuaguo/Desktop/my_calender 2/my_calender/bin/Debug/com.companyname.my_calender.apk
+/Users/zehuaguo/Desktop/my_calender 2/my_calender/bin/Debug/com.companyname.my_calender-Signed.apk
+/Users/zehuaguo/Desktop/my_calender 2/my_calender/bin/Debug/Xamarin.Android.Arch.Core.Common.dll
+/Users/zehuaguo/Desktop/my_calender 2/my_calender/bin/Debug/Xamarin.Android.Arch.Lifecycle.Common.dll
+/Users/zehuaguo/Desktop/my_calender 2/my_calender/bin/Debug/Xamarin.Android.Arch.Lifecycle.Runtime.dll
+/Users/zehuaguo/Desktop/my_calender 2/my_calender/bin/Debug/Xamarin.Android.Support.Animated.Vector.Drawable.dll
+/Users/zehuaguo/Desktop/my_calender 2/my_calender/bin/Debug/Xamarin.Android.Support.Annotations.dll
+/Users/zehuaguo/Desktop/my_calender 2/my_calender/bin/Debug/Xamarin.Android.Support.Compat.dll
+/Users/zehuaguo/Desktop/my_calender 2/my_calender/bin/Debug/Xamarin.Android.Support.Core.UI.dll
+/Users/zehuaguo/Desktop/my_calender 2/my_calender/bin/Debug/Xamarin.Android.Support.Core.Utils.dll
+/Users/zehuaguo/Desktop/my_calender 2/my_calender/bin/Debug/Xamarin.Android.Support.Fragment.dll
+/Users/zehuaguo/Desktop/my_calender 2/my_calender/bin/Debug/Xamarin.Android.Support.Media.Compat.dll
+/Users/zehuaguo/Desktop/my_calender 2/my_calender/bin/Debug/Xamarin.Android.Support.v7.AppCompat.dll
+/Users/zehuaguo/Desktop/my_calender 2/my_calender/bin/Debug/Xamarin.Android.Support.Vector.Drawable.dll
+/Users/zehuaguo/Desktop/my_calender 2/my_calender/obj/Debug/my_calender.dll
+/Users/zehuaguo/Desktop/my_calender 2/my_calender/obj/Debug/my_calender.pdb
+/Users/zehuaguo/Desktop/my_calender 2/my_calender/obj/Debug/android/bin/com.companyname.my_calender.apk
+/Users/zehuaguo/Desktop/my_calender 2/my_calender/obj/Debug/res/layout/main.xml
+/Users/zehuaguo/Desktop/my_calender 2/my_calender/obj/Debug/res/values/strings.xml
+/Users/zehuaguo/Desktop/my_calender 2/my_calender/obj/Debug/res/mipmap-hdpi/icon.png
+/Users/zehuaguo/Desktop/my_calender 2/my_calender/obj/Debug/res/mipmap-mdpi/icon.png
+/Users/zehuaguo/Desktop/my_calender 2/my_calender/obj/Debug/res/mipmap-xhdpi/icon.png
+/Users/zehuaguo/Desktop/my_calender 2/my_calender/obj/Debug/res/mipmap-xxhdpi/icon.png
+/Users/zehuaguo/Desktop/my_calender 2/my_calender/obj/Debug/res/mipmap-xxxhdpi/icon.png
+/Users/zehuaguo/Desktop/my_calender 2/my_calender/obj/Debug/res/layout/secondlayout.xml
+/Users/zehuaguo/Desktop/my_calender 2/my_calender/obj/Debug/res/drawable/icon.png
+/Users/zehuaguo/Desktop/my_calender 2/my_calender/obj/Debug/R.cs.flag
+/Users/zehuaguo/Desktop/my_calender 2/my_calender/obj/Debug/R.txt
+/Users/zehuaguo/Desktop/my_calender 2/my_calender/obj/Debug/uploadflags.txt
+/Users/zehuaguo/Desktop/my_calender 2/my_calender/obj/Debug/res/layout/thirdlayout.xml
+/Users/zehuaguo/Desktop/my_calender 2/my_calender/obj/Debug/linksrc/my_calender.pdb
+/Users/zehuaguo/Desktop/my_calender 2/my_calender/obj/Debug/linksrc/Mono.Android.pdb
